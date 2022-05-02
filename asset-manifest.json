@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/RoyalBlog/static/css/main.a8403a41.css",
-    "main.js": "/RoyalBlog/static/js/main.dfab9624.js",
+    "main.css": "/RoyalBlog/static/css/main.75d23346.css",
+    "main.js": "/RoyalBlog/static/js/main.1092a66f.js",
     "static/js/787.cda612ba.chunk.js": "/RoyalBlog/static/js/787.cda612ba.chunk.js",
     "static/media/19197284.jpg": "/RoyalBlog/static/media/19197284.136fdd249c1778477ca6.jpg",
     "index.html": "/RoyalBlog/index.html",
-    "main.a8403a41.css.map": "/RoyalBlog/static/css/main.a8403a41.css.map",
-    "main.dfab9624.js.map": "/RoyalBlog/static/js/main.dfab9624.js.map",
+    "main.75d23346.css.map": "/RoyalBlog/static/css/main.75d23346.css.map",
+    "main.1092a66f.js.map": "/RoyalBlog/static/js/main.1092a66f.js.map",
     "787.cda612ba.chunk.js.map": "/RoyalBlog/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8403a41.css",
-    "static/js/main.dfab9624.js"
+    "static/css/main.75d23346.css",
+    "static/js/main.1092a66f.js"
   ]
 }
